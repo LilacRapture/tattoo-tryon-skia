@@ -60,4 +60,4 @@ product-specific code or assets.
 ## Demo
 
 A screen recording of the try-on mechanism running in the iOS simulator:
-[link]
+[link](https://drive.google.com/file/d/17xP3yZQLZoFE1Q-3XSgwcE4hBMBitC1S/view?usp=sharing)
