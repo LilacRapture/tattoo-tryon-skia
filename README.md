@@ -58,6 +58,7 @@ product-specific code or assets.
   of body normal/depth maps used as inputs
 
 ## Demo
+![demo](./demo.gif)
 
 A screen recording of the try-on mechanism running in the iOS simulator:
 [link](https://drive.google.com/file/d/17xP3yZQLZoFE1Q-3XSgwcE4hBMBitC1S/view?usp=sharing)
