@@ -410,7 +410,7 @@ function SkiaEditor({
           </Fill>
         </Mask>
       </Group>
-      {/* Debug: origin indicator for sketch */}
+      {/* DEBUG VISUALIZATION — remove for production: shows origin (red) and translate (green) points used for sketch placement */}
       <Circle cx={originX} cy={originY} r={4} color="#ff2d20" />
       <Circle
         cx={finalTranslateX + sketchCenterX}
